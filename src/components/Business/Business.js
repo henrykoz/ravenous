@@ -1,5 +1,4 @@
-// Business component. The component will represent how a business (a restaurant) in Ravenous will be formatted and styled.
-
+// Business component. 
 import React from 'react';
 import './Business.css';
 
